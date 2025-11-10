@@ -53,7 +53,7 @@
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:aswanivijoy2002@gmail.com" target="blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=aswanivijoy2002@gmail.com" target="blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" />
   </a>
 </p>
