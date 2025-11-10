@@ -49,11 +49,11 @@
 
 ### 📫 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com/in/your-link" target="blank">
+  <a href="https://linkedin.com/in/(https://www.linkedin.com/in/aswani-vijoy-b6ba78390?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:your-email@example.com" target="blank">
+  <a href="mailto:aswanivijoy2002@gmail.com" target="blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" />
   </a>
 </p>
