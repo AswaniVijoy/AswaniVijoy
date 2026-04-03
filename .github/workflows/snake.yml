@@ -28,7 +28,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Print SVG contents for debugging
+      - name: Print SVG for debugging
         run: cat dist/github-contribution-grid-snake.svg
 
       - name: Push snake to output branch
