@@ -28,22 +28,8 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Recolor snake and dots
-        run: |
-          # Snake body → white
-          sed -i 's/fill="#[0-9a-fA-F]*" class="snake"/fill="#ffffff" class="snake"/g' dist/github-contribution-grid-snake.svg
-          sed -i 's/fill="#[0-9a-fA-F]*" class="snake"/fill="#ffffff" class="snake"/g' dist/github-contribution-grid-snake-dark.svg
-
-          # Contribution dots → navy blue shades
-          sed -i 's/#9be9a8/#1e4db7/g' dist/github-contribution-grid-snake.svg
-          sed -i 's/#40c463/#0d2149/g' dist/github-contribution-grid-snake.svg
-          sed -i 's/#30a14e/#0a1628/g' dist/github-contribution-grid-snake.svg
-          sed -i 's/#216e39/#0a1020/g' dist/github-contribution-grid-snake.svg
-
-          sed -i 's/#9be9a8/#1e4db7/g' dist/github-contribution-grid-snake-dark.svg
-          sed -i 's/#40c463/#0d2149/g' dist/github-contribution-grid-snake-dark.svg
-          sed -i 's/#30a14e/#0a1628/g' dist/github-contribution-grid-snake-dark.svg
-          sed -i 's/#216e39/#0a1020/g' dist/github-contribution-grid-snake-dark.svg
+      - name: Print SVG contents for debugging
+        run: cat dist/github-contribution-grid-snake.svg
 
       - name: Push snake to output branch
         run: |
