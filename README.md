@@ -101,7 +101,7 @@ const aswani = {
   </picture>
 </div>
 
-> ⚙️ To activate the snake: Go to your repo → **Actions** tab → New workflow → paste the [snake workflow](https://github.com/Platane/snk#readme) → run it once.
+
 
 ---
 
